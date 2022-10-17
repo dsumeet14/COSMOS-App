@@ -14,7 +14,9 @@ learn a lot during these days and it was an amazing experience learning with GDS
 <br>during these days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
 I enjoyed these days, you can as well.
+  <br>
 <a href=
 "https://github.com/dsumeet14/COSMOS-App">GITHUB</a>
+  <br>
   <a href=
 "https://drive.google.com/drive/folders/1EW_t2Q8Bn8qJAsnjPY5Cayc2BxeU-mhg?usp=sharing">GOOGLE DRIVE</a>
